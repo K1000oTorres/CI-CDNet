@@ -1,3 +1,5 @@
+They present a neural network-based method for large-scale complex domain enhancement called CI-CDNet for various large-scale modalities, such as Kramers-Kronig ratio holography, Fourier microscopy ptychography, and lens-free coded ptychography, with satisfactory reconstruction quality and efficiency. 
+
 # Complex-domain enhacing neural network for large-scale coherent imaging
 
 This repository contains the code for complex-domain neural network (CI-CDNet). For more information, please contact Liheng Bian (bian at bit dot edu dot cn).

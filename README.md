@@ -18,13 +18,13 @@ Run `main_quickly_test.py` file to start a quick demo of CI-CDNet.
 
 Run `main_test_addnoise.py` file to start different noise levels. 
 
-## Download pre-trained model
-Baidu Netdisk address:  https://pan.baidu.com/s/1gYxIVyMNK55agnv8lkmFkQ 
-
-Password：aaab
-
 ## Requirements and Dependencies
 python == 3.7.11
-
 pytorch == 1.8.1
-"# New-Repository" 
+
+## BiBTex
+```
+@article{Chang_Zhao_Jiang_Shen_Zheng_Yang_Bian_2024, title={Complex-domain-enhancing neural network for large-scale coherent imaging}, url={https://www.spiedigitallibrary.org/journals/advanced-photonics-nexus/volume-2/issue-4/046006/Complex-domain-enhancing-neural-network-for-large-scale-coherent-imaging/10.1117/1.APN.2.4.046006.full?tab=ArticleLinkCited}, journal={SPIE Digital Library}, publisher={SPIE}, author={Chang, Xuyang and Zhao, Rifa and Jiang, Shaowei and Shen, Cheng and Zheng, Guoan and Yang, Changhuei and Bian, Liheng}, year={2024}}
+
+```
+
